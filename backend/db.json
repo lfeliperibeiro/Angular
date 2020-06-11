@@ -16,8 +16,8 @@
       "price": 2520
     },
     {
-      "Name": "Tablet",
-      "Price": "3599.98",
+      "name": "Tablet",
+      "price": "3599.98",
       "id": 4
     }    
   ]
