@@ -1,0 +1,18 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin: 16px 12px 0 0;
+}
+
+.btn-color-s{
+    background-color: #ff6d70;
+    color: white;
+}
+
+.btn-color-c{
+    background-color: white;
+    color: red;
+}

@@ -12,13 +12,13 @@
     },
     {
       "id": 3,
-      "name": "Celular",
-      "price": 2520
+      "name": "Celular Iphone X",
+      "price": "8520,00"
     },
     {
       "name": "Tablet",
       "price": "3599.98",
       "id": 4
-    }    
+    }
   ]
 }
