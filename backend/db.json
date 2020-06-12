@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta preta",
+      "name": "Caneta Azul",
       "price": 5.89
     },
     {
@@ -13,7 +13,7 @@
     {
       "id": 3,
       "name": "Celular Iphone X",
-      "price": "8520,00"
+      "price": "8520.00"
     },
     {
       "name": "Tablet",
