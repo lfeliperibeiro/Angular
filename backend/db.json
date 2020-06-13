@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta Azul",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Notebook",
       "price": 8000.59
